@@ -1,0 +1,15 @@
+html {
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.5;
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: auto;
+  margin-left: 1em;
+  margin-right: 1em;
+}
