@@ -9,7 +9,23 @@ html {
 }
 
 body {
-  margin: auto;
+  margin: 0;
   margin-left: 1em;
   margin-right: 1em;
+}
+
+h1 {
+  font-size: 2rem;
+  font-family: "Open sans", bold;
+  margin: 0;
+  text-align: center;
+  padding: 1.5rem;
+}
+
+h2 {
+  margin: 0;
+  padding-top: 1.5em;
+  font-size: 1rem;
+  padding-right: .2em;
+  padding-left: .5em;
 }
